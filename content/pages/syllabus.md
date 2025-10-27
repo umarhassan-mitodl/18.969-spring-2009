@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides and overview of the course, information
   on course meeting times, and the schedule of lecture topics.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

@@ -31,7 +31,6 @@
     "website": "18-969-topics-in-geometry-mirror-symmetry-spring-2009"
   },
   "course_title": "Topics in Geometry: Mirror Symmetry",
-  "hide_download": true,
   "course_description": "This course will focus on various aspects of mirror symmetry. It is aimed at students who already have some basic knowledge in symplectic and complex geometry (18.966, or equivalent). The geometric concepts needed to formulate various mathematical versions of mirror symmetry will be introduced along the way, in variable levels of detail and rigor.\n",
   "department_numbers": [
     "18"
@@ -42,7 +41,6 @@
     "content": "bc7cee01-082a-1043-6474-8ffe0beeefd3",
     "website": "18-969-topics-in-geometry-mirror-symmetry-spring-2009"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides a list of books and papers on mirror symmetry.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -26,10 +24,10 @@ McDuff, Dusa, and Dietmar Salamon. _J-holomorphic Curves and Symplectic Topology
 Papers
 ------
 
-Thomas, R. P. "[The Geometry of Mirror Symmetry](http://arxiv.org/abs/math/0512412)." Encyclopedia of Mathematical Physics. _Elsevier_ (2006): 439-448.
+Thomas, R. P. "{{% resource_link "aae1391a-fb3d-4d04-9f79-987627a18d9c" "The Geometry of Mirror Symmetry" %}}." Encyclopedia of Mathematical Physics. _Elsevier_ (2006): 439-448.
 
-Polishchuk, A., and E. Zaslow. "[Categorical Mirror Symmetry: The Elliptic Curve](http://arxiv.org/abs/math/9801119)." _Adv Theor Math Phys_ 2 (1998): 443-470; arXiv:math.AG/9801119.
+Polishchuk, A., and E. Zaslow. "{{% resource_link "647fc5ce-cbb1-4ea2-bb1b-0a40bdb09958" "Categorical Mirror Symmetry: The Elliptic Curve" %}}." _Adv Theor Math Phys_ 2 (1998): 443-470; arXiv:math.AG/9801119.
 
-Thomas, R. P. "[Derived Categories for The Working Mathematician. Winter School on Mirror Symmetry, (Cambridge MA, 1999)](http://arxiv.org/abs/math/0001045)." _AMS/IP Stud Adv Math_ 23, _AMS_ (2001): 363-377; arXiv:math.AG/0001045.
+Thomas, R. P. "{{% resource_link "4041e1c6-b1fb-4709-ba87-39b1af30bf85" "Derived Categories for The Working Mathematician. Winter School on Mirror Symmetry, (Cambridge MA, 1999)" %}}." _AMS/IP Stud Adv Math_ 23, _AMS_ (2001): 363-377; arXiv:math.AG/0001045.
 
-Auroux, D. "[Mirror Symmetry and T-duality in The Complement of an Anticanonical Divisor](http://arxiv.org/abs/0706.3207)." _J Gökova Geom Topol_ 1 (2007): 51-91; arXiv:math.SG/0706.3207.
+Auroux, D. "{{% resource_link "0f7efbfb-6e82-4890-bb07-6fd47c676924" "Mirror Symmetry and T-duality in The Complement of an Anticanonical Divisor" %}}." _J Gökova Geom Topol_ 1 (2007): 51-91; arXiv:math.SG/0706.3207.
